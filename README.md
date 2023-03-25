@@ -66,7 +66,9 @@ df.isnull().sum()
 
 # OUTPUT:
 DATA SET
+
 ![](/Data%20Cleaning%20%20Exp.jpeg)
 
 LOAN DATA
+
 ![](/Loan%20data%20exp.jpeg)
